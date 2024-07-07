@@ -6,5 +6,5 @@
       <class name="com.test.WebElementList"/>
       <class name="Excersises.MAPS1"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!--New code testing in jira-234  Test -->
 </suite> <!-- Suite -->
