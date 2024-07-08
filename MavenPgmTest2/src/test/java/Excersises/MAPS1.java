@@ -44,6 +44,7 @@ public class MAPS1 {
 		openAccountPanel.click();
 	}
 	
+	// testing Git Hub branch MAPS-2087
 	@Test
 	public void test2087() throws InterruptedException {
 		Thread.sleep(5000);
