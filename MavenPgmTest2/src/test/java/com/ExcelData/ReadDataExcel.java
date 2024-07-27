@@ -27,7 +27,7 @@ public class ReadDataExcel {
 		for (int i = 0; i < numberOfCells; i++) {
 			XSSFCell cells = row.getCell(i);
 			
-			System.out.println(cells + " | ");
+			System.out.print(cells + " | ");
 		}
 		
 	}
